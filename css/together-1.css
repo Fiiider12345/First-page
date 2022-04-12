@@ -1,11 +1,11 @@
 h1{
-	background: #B3B3B3;
 	font-size: 150%;
 }
 
 header{
 	background: #666666;
 	text-align: center;
+	padding: 15px;
 }
 
 h1{
@@ -32,4 +32,22 @@ summary{
 
 footer{
 	background: #666666;
+	clear: both;
+}
+
+body{
+	background: #B3B3B3;
+	font-size: 150%;
+	margin: 2%;
+}
+
+section{
+	width: 30%;
+	display: inline-block;
+	float: left;
+	margin-right: 2%;
+}
+
+img{
+	width: 125px;
 }
